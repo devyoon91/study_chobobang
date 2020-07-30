@@ -61,5 +61,6 @@
       - `$git status` 로 변경파일이 없는지 마지막으로 확인
    - 로컬저장소 -> 원격저장소 업데이트 
       - `$git push -u origin master`
+      - 처음 `push` 할 경우 GitHub 로그인 창 팝업이 나옵니다, 로그인 해줍시다 ~
 4. `Git` 배우기
     - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/) 
