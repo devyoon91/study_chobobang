@@ -33,11 +33,11 @@
       - git config 확인 
         - ```$git config --list``` 
    - git 초기화 `git init`
-      - 원격저장소를 생성할 디렉토리로 이동(C 드라이브에 init 할경우), `한글 디렉토리 X`
+      - 로컬저장소를 생성할 디렉토리로 이동(C 드라이브에 init 할경우), `한글 디렉토리 X`
         - `$cd C:/git/repository/`
       - 초기(.git 폴더생성)
         - `$git init`
-   - 원격저장소 생성 `git remote`, Git Repository 연결
+   - 로컬저장소 생성 -> 원격저장소 연결 `git remote`
       - git remote add origin https://github.com/devyoon91/study_chobobang.git
    - `README.md` 생성 및 `commit` 
       - `$echo "Hello Chobobang ~"  >> README.md`
@@ -59,5 +59,7 @@
         ```
       - `$git commit -m "Commit README.md ~!!"`
       - `$git status` 로 변경파일이 없는지 마지막으로 확인
+   - 로컬저장소 -> 원격저장소 업데이트 
+      - `$git push -u origin master`
 4. `Git` 배우기
     - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/) 
