@@ -64,3 +64,37 @@
       - 처음 `push` 할 경우 GitHub 로그인 창 팝업이 나옵니다, 로그인 해줍시다 ~
 4. `Git` 배우기
     - [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/) 
+***
+
+**🐱Visual Studio Code 설치/기본설정**
+--
+
+**✔️설치파일 다운로드**
+  - [Visual Studio Code 다운로드](https://code.visualstudio.com/)
+
+**✔️다음 눌러 설치진행**
+  - 기타 3개만 추가 체크   
+   
+    ![](https://i.ibb.co/r70vNLm/2020-08-02-163401.png)
+  
+  - 설치 완료    
+    
+    ![](https://i.ibb.co/zszcZhm/image.png)
+  
+**한글 설정**
+  - 익스텐션 아이콘 클릭 -> `korean` 검색   
+  
+    ![](https://i.ibb.co/2S9wK70/image.png)
+  
+  - `Korean language pack for visual studio code` install 클릭! -> 오른쪽 하단 `Restart Now` 클릭   
+  
+    ![](https://i.ibb.co/DpJFgS6/image.png)
+    
+  - 한글어팩 설치 완료
+
+    ![](https://i.ibb.co/SNC9vKM/image.png)
+ 
+**⚠️참고 사이트**
+  - [개발도구-VSCode-설치와-한글-설정-방법](https://yjshin.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EB%8F%84%EA%B5%AC-VSCode-%EC%84%A4%EC%B9%98%EC%99%80-%ED%95%9C%EA%B8%80-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95)
+
+***
