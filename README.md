@@ -97,4 +97,29 @@
 **⚠️참고 사이트**
   - [개발도구-VSCode-설치와-한글-설정-방법](https://yjshin.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EB%8F%84%EA%B5%AC-VSCode-%EC%84%A4%EC%B9%98%EC%99%80-%ED%95%9C%EA%B8%80-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95)
 
+**🍯추천 플러그인 세팅**
+  - Visual Studio Code 는 다른 에디터와 마찬가지로 플러그인을 제공합니다 설치는 아래 관련 블로그를 참조합니다
+    - [vscode 추천 익스텐션(Extensions)과 세팅](https://caesiumy.github.io/2019/04/02/vscode-recommended-extensions/) 
+***
+
+**Nodejs 설치/기본설정**
+--
+
+**✔️설치파일 다운로드**
+  - 최신버전보다 구버전으로 다운로드(LTS)
+    - [https://nodejs.org/ko](https://nodejs.org/ko/) 
+    - ✔️기본적인 경로 설정 후 Next 눌러 설치진행
+
+**✔️CMD 를 열어 nodejs 버전 확인**
+  - 윈도우키 + r -> cmd 입력 후 엔터
+  
+    ![](https://i.ibb.co/DCKNPJF/image.png)
+  
+  - `node -v` 명령어 입력
+  
+    ![](https://i.ibb.co/82WHXDm/image.png)
+
+**🐤Nodejs로 간단하게 html 띄우기**
+  - [node js 설치 (on Windows)](https://dejavuqa.tistory.com/378)
+
 ***
