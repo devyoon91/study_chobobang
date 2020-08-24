@@ -1,15 +1,12 @@
-**#0.스터디 설명 및 스터디 진행준비[2020.08.08]**
+**React_Movie_App 클론 코딩 스터디**
 --
 
-**📝진행순서**
+**📝스터디 진행**
 --
-- 간단한 OT
-- 스터디 방식 설명⭐️
-- 스터디 그룹 룰 설정( 지켜야할 규칙들 )⭐️
-- 스터디 준비( git, ide, nodejs 등등.. )⭐️
-- 목표 설정( 보게될 강의 내용을 쪼개어 주간 목표 설정 )⭐️
-- 점심식사 ( 가능하신 분들만 같이 해요~ 👀 )
+- 오프라인 으로 모여서 노마드 코더 강의 참조하여 클론코딩 진행
+- 온라인으로 진행할시에 `Slack` 으로 진행상황 공유
 ***
+
 **✍️시작**
 --
 
@@ -69,6 +66,14 @@
     - **ES5 ~ ES6(JAVASCRIPT)**
       - [CODING-CONVENSION](https://ui.toast.com/fe-guide/ko_CODING-CONVENSION/)
 
+***
+**✍️종료**
+--
+- 김병윤, [[Github Pages] - devyoon91](https://devyoon91.github.io/movie_2020_08/)
+- 이미진, [[Github Pages] - mimimjin]()
+- 이보람, [[Github Pages] - 255ramilee]()
+- 유성준, [[Github Pages] - yusungjun]()
+- 안상욱, [[Github Pages] - monds]()
 ***
 **설치한 NPM 패키지**
 --
