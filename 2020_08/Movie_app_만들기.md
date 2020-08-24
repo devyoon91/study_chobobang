@@ -74,7 +74,8 @@
 --
 1. **npm i create-react-app**
 2. **npm i prop-types**
-3. **npm i gh-pages** 
+3. **npm i gh-pages**
+4. **npm i axios**
 ***
 **👋참여한 사람들**
 --
