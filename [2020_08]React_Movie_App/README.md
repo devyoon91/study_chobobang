@@ -70,10 +70,11 @@
 **✍️종료**
 --
 - 김병윤, [[Github Pages] - devyoon91](https://devyoon91.github.io/movie_2020_08/)
-- 이미진, [[Github Pages] - mimimjin]()
-- 이보람, [[Github Pages] - 255ramilee]()
+- 이미진, [[Github Pages] - mimimjin](https://mimimjin.github.io/movie_2020-08)
+- 이보람, [[Github Pages] - 255ramilee](https://255ramilee.github.io/movie_2020_08/#/)
 - 유성준, [[Github Pages] - yusungjun]()
-- 안상욱, [[Github Pages] - monds]()
+- 안상욱, [[Github Pages] - monds](https://monds.github.io/movie_app_2019/#/)
+- 김나래, [[Github Pages] - kimnarrae](https://kimnarrae.github.io/movie_app_2019/#/)
 ***
 **설치한 NPM 패키지**
 --
@@ -89,6 +90,7 @@
 - 이보람, [[Github] - 255ramilee](https://github.com/255ramilee)
 - 유성준, [[Github] - yusungjun](https://github.com/yusungjun)
 - 안상욱, [[Github] - monds](https://github.com/monds)
+- 김나래, [[Github] - kimnarrae](https://github.com/kimnarrae)
 
 ***
 **🔍스터디 정보**
